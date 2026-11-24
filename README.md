@@ -73,6 +73,6 @@ node scripts/check-api.mjs http://localhost:4100 1.0.0 staging
 - Команда локального запуску: `npm run dev`
 - Параметри середовища: `PORT=4100`, `NODE_ENV=production`, `APP_ENV=staging`, `APP_MESSAGE="Практична 11 — Бєлік М. Р., ІТ-31/1"`
 - Посилання на репозиторій: https://github.com/belikmaks/node-deployment-lab11
-- Спосіб розгортання та URL або причина локального варіанта: PaaS Render (Web Service, Free), URL: https://lab11-belikmaks-api.onrender.com
-- Результат перевірки версії 1.1.0 та її коміту: перевірку пройдено успішно (check-api.mjs повернув "API checks passed", версія 1.1.0, revision відповідає хешу коміту оновлення)
+- Спосіб розгортання та URL або причина локального варіанта: PaaS Render (Web Service, Free), URL: https://node-deployment-lab11-reu5.onrender.com
+- Результат перевірки версії 1.1.0 та її коміту: перевірку пройдено успішно (check-api.mjs повернув "API checks passed", версія 1.1.0, revision: 4e9b9a9c1b907a4edb909af2d5b9485b12414b48)
 - Ресурси, які зупинено або видалено: тестовий локальний процес завершено (Ctrl+C); безкоштовний сервіс Render налаштовано в режимі Free для демонстрації
